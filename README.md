@@ -20,6 +20,8 @@ Things to do:
 
 9. Add database store to see data offline, redux asynctorage middleware.
 
-10. Use Jest, never use it but id like to try. must be fun.
+10. Separate Constants to a diferent file.
+
+11. Use Jest, never use it but id like to try. must be fun.
 
 Hope you find it useful!
