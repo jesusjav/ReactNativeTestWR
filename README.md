@@ -22,6 +22,8 @@ Things to do:
 
 10. Separate Constants to a diferent file.
 
-11. Use Jest, never use it but id like to try. must be fun.
+11. Make nice and reusable style, now is hardcoded.
+
+12. Use Jest, never use it but id like to try. must be fun.
 
 Hope you find it useful!
